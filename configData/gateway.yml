@@ -20,7 +20,6 @@ spring:
             - Path=/api/v1/musics/**
 
 
-
 info:
   app:
     name: ${spring.application.name}
